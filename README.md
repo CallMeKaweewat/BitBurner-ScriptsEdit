@@ -1,0 +1,2 @@
+# BitBurner-ScriptsEdit
+ Bitburnscript
