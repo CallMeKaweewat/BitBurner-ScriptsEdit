@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "HelpScripts/cp.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -243,7 +243,7 @@
       "command-palette:เปิดกระดานคำสั่ง": false
     }
   },
-  "active": "062cf59a12a5d442",
+  "active": "dc4c9f4e63f5b4f8",
   "lastOpenFiles": [
     "HelpScripts/check.md",
     "HelpScripts/cp.md",
