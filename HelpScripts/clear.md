@@ -1,4 +1,4 @@
-
+## clear
 Clear all text on the terminal
   
 **Signature:**

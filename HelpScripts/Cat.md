@@ -1,4 +1,4 @@
-
+## cat
 Display a .msg, .lit, or .txt file
   
 **Signature:**

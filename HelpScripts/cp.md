@@ -1,4 +1,4 @@
-## CP
+## cp
 Copy a file
   
 **Signature:**

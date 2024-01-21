@@ -1,4 +1,4 @@
-
+## connect
 Connects to a remote server
   
 **Signature:**

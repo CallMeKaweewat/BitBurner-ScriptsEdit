@@ -1,4 +1,4 @@
-
+## check
 Print a script's logs to Terminal
   
 **Signature:**

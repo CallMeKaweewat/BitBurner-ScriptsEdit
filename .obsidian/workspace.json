@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelpScripts/Buy.md",
+                "file": "HelpScripts/buy.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "HelpScripts/cp.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -245,17 +245,17 @@
   },
   "active": "dc4c9f4e63f5b4f8",
   "lastOpenFiles": [
-    "HelpScripts/check.md",
+    "HelpScripts/connect.md",
     "HelpScripts/cp.md",
     "HelpScripts/cls.md",
-    "HelpScripts/connect.md",
-    "HelpScripts/cd.md",
     "HelpScripts/clear.md",
-    "HelpScripts/Alias.md",
-    "HelpScripts/Analyze.md",
-    "HelpScripts/Backdoor.md",
-    "HelpScripts/Buy.md",
+    "HelpScripts/check.md",
+    "HelpScripts/cd.md",
     "HelpScripts/Cat.md",
+    "HelpScripts/buy.md",
+    "HelpScripts/backdoor.md",
+    "HelpScripts/Analyze.md",
+    "HelpScripts/Alias.md",
     "ยังไม่ได้ตั้งชื่อ.md",
     "README.md",
     "Welcome.md",

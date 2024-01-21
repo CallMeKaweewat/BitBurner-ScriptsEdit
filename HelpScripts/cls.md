@@ -1,4 +1,4 @@
-
+## cls
 See 'clear' command
   
 **Signature:**
