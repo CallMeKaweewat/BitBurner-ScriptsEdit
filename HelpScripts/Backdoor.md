@@ -33,7 +33,7 @@ backdoor
 
 **Result:**
 
-```Markdown
+```Terminal
 - [||||||||||||||||||||||||||||||||||||||||||||||||||]
 - Backdoor on 'n00dles' successful!
 ```

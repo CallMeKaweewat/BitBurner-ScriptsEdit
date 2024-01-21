@@ -35,7 +35,7 @@ buy -l
 
 **Result:**
 
-```Markdown
+```Terminal
 BruteSSH.exe - [OWNED] - Opens up SSH Ports.
 FTPCrack.exe - [OWNED] - Opens up FTP Ports.
 relaySMTP.exe - $5.000m - Opens up SMTP Ports. 
@@ -62,7 +62,7 @@ buy relaySMTP.exe
   
 **Result:**
 
-```Markdown
+```Terminal
 You have purchased the relaySMTP.exe program. The new program can be found on your home computer.
 ```
 

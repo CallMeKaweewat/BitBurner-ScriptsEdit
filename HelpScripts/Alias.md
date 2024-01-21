@@ -35,7 +35,7 @@ alias -g name="n00dles"
 
 **Result:**
 
-```Markdown
+```Terminal
 
 Set global alias name="n00dles"
 

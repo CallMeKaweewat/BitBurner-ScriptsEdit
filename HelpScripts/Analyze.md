@@ -33,7 +33,7 @@ analyze
 
 **Result:**
 
-```Markdown
+```Terminal
 - home:
 - Organization name: Home PC
 - Root Access: YES

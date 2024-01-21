@@ -13,31 +13,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelpScripts/Alias.md",
-                "mode": "source",
+                "file": "HelpScripts/Buy.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6eb4d21e6d5bf5c1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "69ac65ef27f4b145",
+            "id": "53fafaabe0f5407d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelpScripts/Buy.md",
+                "file": "HelpScripts/Cat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba186101f1cdd981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HelpScripts/cd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7c85285a8970a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HelpScripts/check.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b55a3233d73b98af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HelpScripts/clear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c69b5e77d32d418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HelpScripts/cls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27ca8fb6b0a40e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HelpScripts/connect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "500c544080c96c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HelpScripts/cp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc4c9f4e63f5b4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HelpScripts/cp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -103,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HelpScripts/Alias.md",
+                "file": "HelpScripts/cp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HelpScripts/Alias.md",
+                "file": "HelpScripts/cp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HelpScripts/Alias.md"
+                "file": "HelpScripts/cp.md"
               }
             }
           }
@@ -164,13 +243,21 @@
       "command-palette:เปิดกระดานคำสั่ง": false
     }
   },
-  "active": "0af5eb9c11ff7e47",
+  "active": "062cf59a12a5d442",
   "lastOpenFiles": [
-    "README.md",
-    "HelpScripts/Buy.md",
+    "HelpScripts/check.md",
+    "HelpScripts/cp.md",
+    "HelpScripts/cls.md",
+    "HelpScripts/connect.md",
+    "HelpScripts/cd.md",
+    "HelpScripts/clear.md",
     "HelpScripts/Alias.md",
-    "HelpScripts/Backdoor.md",
     "HelpScripts/Analyze.md",
+    "HelpScripts/Backdoor.md",
+    "HelpScripts/Buy.md",
+    "HelpScripts/Cat.md",
+    "ยังไม่ได้ตั้งชื่อ.md",
+    "README.md",
     "Welcome.md",
     "HelpScript.md",
     "HelpScripts",
