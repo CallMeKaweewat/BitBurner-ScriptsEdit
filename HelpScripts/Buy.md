@@ -17,7 +17,7 @@ buy [-l/-a/program]
   
 - `buy`: This command buy program on tor.
 - `-l`:  This option is used to buy programs in the game. Programs are    software tools that play a role in hacking activities, defense mechanisms, data collection, and other operations within the game.
-- `-a`: This option is used to buy non-program items or resources. It could include items like equipment, medicines, or other resources necessary for various in-game activities.
+- `-a`: all (buy all)
 - `program`: This is the specific option to indicate that you want to buy a program 
 
 
