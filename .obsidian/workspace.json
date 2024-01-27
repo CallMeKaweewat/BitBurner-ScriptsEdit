@@ -4,167 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55285a0601941f20",
+        "id": "caf62cff6766a4d2",
         "type": "tabs",
         "children": [
           {
-            "id": "0af5eb9c11ff7e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/buy.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53fafaabe0f5407d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba186101f1cdd981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/cd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d7c85285a8970a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/check.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b55a3233d73b98af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/clear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c69b5e77d32d418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/cls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27ca8fb6b0a40e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/connect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "500c544080c96c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/cp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc4c9f4e63f5b4f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/download.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f561324c26caeea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/expr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9611f8931ff59918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/free.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "684995f17e267d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/grow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "866f8a8f3dbe705d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/hack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "858d2efbfe798a36",
+            "id": "80cf891ad60a4264",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,289 +20,19 @@
             }
           },
           {
-            "id": "c8fc3e5544fe4321",
+            "id": "1f9cf9d0b311ce92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b83ab69bcef3379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61592548ad460c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "468fa69290eef9a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5306d49e1d46c3d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e8c72c12cc6d9d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "916bdc53d2581c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83965f390a676863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f726f9fcfc334d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed7e1ba3f2ab782a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d48017839fe0f2d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53ed20aaf16afb93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20488bb5ee086d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3de84f9fae81c8c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a451991d7f229867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26126739ce514106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e43e6664c8ba435d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46ec7261e3ba48fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d11cb07ded75245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f188f23334119ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cb1f92bd34dd32c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26b2e358dea8ec11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/hack.md",
+                "file": "note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 35
-      },
-      {
-        "id": "cd2db4ab3bf3eb72",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ebb8451f2633c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HelpScripts/hack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -524,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HelpScripts/hack.md",
+                "file": "ยังไม่ได้ตั้งชื่อ 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -541,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HelpScripts/hack.md",
+                "file": "ยังไม่ได้ตั้งชื่อ 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -564,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HelpScripts/hack.md"
+                "file": "ยังไม่ได้ตั้งชื่อ 5.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -585,20 +159,23 @@
       "command-palette:เปิดกระดานคำสั่ง": false
     }
   },
-  "active": "062cf59a12a5d442",
+  "active": "a8192e2f831ed875",
   "lastOpenFiles": [
-    "HelpScripts/grow.md",
+    "ยังไม่ได้ตั้งชื่อ 5.md",
+    "note.md",
+    "HelpScripts/check.md",
+    "HelpScripts/Cat.md",
+    "HelpScripts/buy.md",
+    "HelpScripts/backdoor.md",
     "HelpScripts/hack.md",
+    "HelpScripts/grow.md",
     "HelpScripts/free.md",
     "HelpScripts/expr.md",
     "HelpScripts/download.md",
     "HelpScripts/cp.md",
     "HelpScripts/connect.md",
     "HelpScripts/cls.md",
-    "HelpScripts/check.md",
     "HelpScripts/clear.md",
-    "HelpScripts/buy.md",
-    "ยังไม่ได้ตั้งชื่อ 5.md",
     "README.md",
     "ยังไม่ได้ตั้งชื่อ 27.md",
     "ยังไม่ได้ตั้งชื่อ 26.md",
@@ -610,9 +187,6 @@
     "ยังไม่ได้ตั้งชื่อ 20.md",
     "ยังไม่ได้ตั้งชื่อ 19.md",
     "ยังไม่ได้ตั้งชื่อ 18.md",
-    "ยังไม่ได้ตั้งชื่อ 17.md",
-    "ยังไม่ได้ตั้งชื่อ 16.md",
-    "ยังไม่ได้ตั้งชื่อ 15.md",
     "HelpScripts",
     "HelpScripts",
     "New folder"
