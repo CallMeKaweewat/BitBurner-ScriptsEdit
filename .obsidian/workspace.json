@@ -23,11 +23,14 @@
             "id": "1f9cf9d0b311ce92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "note.md",
-                "mode": "source",
-                "source": false
+                "file": "ยังไม่ได้ตั้งชื่อ.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -61,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 5.md",
+                "file": "ยังไม่ได้ตั้งชื่อ.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 5.md",
+                "file": "ยังไม่ได้ตั้งชื่อ.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 5.md"
+                "file": "ยังไม่ได้ตั้งชื่อ.canvas"
               }
             }
           }
@@ -159,10 +163,13 @@
       "command-palette:เปิดกระดานคำสั่ง": false
     }
   },
-  "active": "a8192e2f831ed875",
+  "active": "fc1a4dc38722c50a",
   "lastOpenFiles": [
-    "ยังไม่ได้ตั้งชื่อ 5.md",
+    "ยังไม่ได้ตั้งชื่อ.canvas",
+    "HelpScripts/Alias.md",
+    "ยังไม่ได้ตั้งชื่อ",
     "note.md",
+    "ยังไม่ได้ตั้งชื่อ 5.md",
     "HelpScripts/check.md",
     "HelpScripts/Cat.md",
     "HelpScripts/buy.md",
@@ -185,8 +192,6 @@
     "ยังไม่ได้ตั้งชื่อ 22.md",
     "ยังไม่ได้ตั้งชื่อ 21.md",
     "ยังไม่ได้ตั้งชื่อ 20.md",
-    "ยังไม่ได้ตั้งชื่อ 19.md",
-    "ยังไม่ได้ตั้งชื่อ 18.md",
     "HelpScripts",
     "HelpScripts",
     "New folder"

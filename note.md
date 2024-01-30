@@ -3,7 +3,7 @@ n00dles
 		neo-net
 			computek**
 				catalyst**
-			netlike**
+			netline**
 				rothman-uni
 				zb-institute
 				syscore	
