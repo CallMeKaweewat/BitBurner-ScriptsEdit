@@ -4,38 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "caf62cff6766a4d2",
+        "id": "cfe4eb6799f4d29f",
         "type": "tabs",
         "children": [
           {
-            "id": "80cf891ad60a4264",
+            "id": "68670bf419fbf069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ 5.md",
+                "file": "HelpScripts/Analyze.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1f9cf9d0b311ce92",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,6 +76,20 @@
     "type": "split",
     "children": [
       {
+        "id": "902498df401629bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b770ca19fcd9f74c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "925ea3b8ee17597e",
         "type": "tabs",
         "children": [
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ.canvas",
+                "file": "HelpScripts/Analyze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ.canvas",
+                "file": "HelpScripts/Analyze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ.canvas"
+                "file": "HelpScripts/Analyze.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,13 +160,15 @@
       "command-palette:เปิดกระดานคำสั่ง": false
     }
   },
-  "active": "fc1a4dc38722c50a",
+  "active": "68670bf419fbf069",
   "lastOpenFiles": [
-    "ยังไม่ได้ตั้งชื่อ.canvas",
-    "HelpScripts/Alias.md",
+    "README.md",
+    "ยังไม่ได้ตั้งชื่อ 1.canvas",
     "ยังไม่ได้ตั้งชื่อ",
     "note.md",
+    "ยังไม่ได้ตั้งชื่อ.canvas",
     "ยังไม่ได้ตั้งชื่อ 5.md",
+    "HelpScripts/Alias.md",
     "HelpScripts/check.md",
     "HelpScripts/Cat.md",
     "HelpScripts/buy.md",
@@ -183,7 +182,6 @@
     "HelpScripts/connect.md",
     "HelpScripts/cls.md",
     "HelpScripts/clear.md",
-    "README.md",
     "ยังไม่ได้ตั้งชื่อ 27.md",
     "ยังไม่ได้ตั้งชื่อ 26.md",
     "ยังไม่ได้ตั้งชื่อ 25.md",
